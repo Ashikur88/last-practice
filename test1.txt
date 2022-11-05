@@ -1,2 +1,3 @@
 This is test1 in the last practise.
 By the way i am adding line 2 for more practising.
+This is 3rd line written from feature2 branch
